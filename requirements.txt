@@ -1,0 +1,9 @@
+# Recorded run on Colab T4: torch==2.11.0+cu130 (CUDA-specific, supplied by Colab)
+# The notebook does not install or use optional torchao.
+transformers==4.57.6
+peft==0.21.2
+medmnist==3.0.2
+scikit-learn==1.6.1
+matplotlib>=3.7
+pandas>=2
+pytest>=8
